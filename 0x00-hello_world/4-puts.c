@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main- prints the sting function
  *
  * Description: using the main function
