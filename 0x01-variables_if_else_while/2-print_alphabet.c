@@ -2,10 +2,11 @@
 /**
  * main - prints alphabet in lower case
  *
- * Description: Putchar function
+ * Description: This code prints aphabet in lowercase
+ * then a new line
  * Return: 0
  */
-main int(void)
+int main(void)
 {
 	char  ch;
 
