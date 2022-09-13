@@ -16,12 +16,10 @@ int main(void)
 	{
 		putchar(c);
 		putchar(',');
-		if (c == '9')
+		if (c == 9)
 			continue;
 		putchar(' ');
 	}
-	{
 		putchar('\n');
-	}
-	return (0);
+		return (0);
 }
