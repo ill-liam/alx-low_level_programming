@@ -12,7 +12,8 @@ int main(void)
 	char  ch;
 
 	for (ch = 'a'; ch <= 'z'; ch++)
-	if (char != 'e' &&  char != 'q')
+	{
+		if (char != 'e' &&  char != 'q')
 	{
 		putchar(ch);
 	}
