@@ -10,5 +10,5 @@ int _isupper(int c)
 	{
 		return (1);
 	}
-	retun(0)
+	return(0)
 }
